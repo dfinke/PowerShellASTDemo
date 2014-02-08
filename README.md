@@ -11,6 +11,7 @@ Demos
 - ***{}.Ast*** get the PowerShell syntax tree
 - ***Select-ViaAst*** simlilar to ***Select-String*** but more powerful
 - ***PSharp*** a productivity tool that makes PowerShell ISE better
+	- [GitHib Repo and Video](https://github.com/dfinke/PSharp) 
 
 The Video
 -
